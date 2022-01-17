@@ -33,7 +33,7 @@ Rättelse till ovan: [QTC 3/2020, s. 9](https://github.com/awandahl/cqww160/blob
 ![image](https://user-images.githubusercontent.com/62021989/149803673-8bbdc430-af90-40c5-999a-e4185cd5f708.png)
 
 
-DXLog.net [documentation](http://dxlog.net/docs/index.php/Main_Page)    
+DXLog.net [Documentation](http://dxlog.net/docs/index.php/Main_Page) & [Introduction](http://dxlog.net/docs/index.php/Getting_started)    
 Från ovan: [Keyboard and text functions](http://dxlog.net/docs/index.php/Keyboard_and_text_functions)     
 Att sända med Enter: [ESM](http://dxlog.net/docs/index.php/Getting_started#ESM)    
 Bra knappar att kunna: [Tips and Tricks](http://dxlog.net/docs/index.php/Getting_started#Tips_and_tricks)     

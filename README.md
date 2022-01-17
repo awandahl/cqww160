@@ -13,6 +13,8 @@ Länkar öppnas förslagvis med HÖGERKLICK och i ny flik/fönster. Pdf:er kan i
 [P3 Panadapter Manual](https://github.com/awandahl/cqww160/blob/main/E740152%20P3%20Owner's%20man%20Rev%20H1.pdf) (front panel s. 13)    
 
 ## Inband    
+![image](https://user-images.githubusercontent.com/62021989/149803845-3470155c-d959-4abc-81f6-1de730da3560.png)
+
 
 QTC 2/2020, s. 10: [Inband-switch för contest](https://github.com/awandahl/cqww160/blob/main/QTC-2020-02.pdf) av Björn SM7IUN   
 Rättelse till ovan: [QTC 3/2020, s. 9](https://github.com/awandahl/cqww160/blob/main/QTC-2020-03.pdf)    

@@ -1,4 +1,4 @@
-# CQWW 160 SD7DX
+# CQWW 160 SC7DX
 
 Lite smått och gott inför CQWW 160 2022...
 

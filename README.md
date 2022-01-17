@@ -14,7 +14,8 @@ Lite smått och gott inför CQWW 160 2022...
 QTC 2/2020, s. 10: [Inband-switch för contest](https://github.com/awandahl/cqww160/blob/main/QTC-2020-02.pdf) av Björn SM7IUN   
 [Rättelse QTC 3/2020, s. 9](https://github.com/awandahl/cqww160/blob/main/QTC-2020-03.pdf)    
 
-## DXLog    
+## DXLog.net    
 
+DXLog.net [documentation](http://dxlog.net/docs/index.php/Main_Page)    
 QTC 3/2020, s. 28: [DXLog.net – Del 1. Fågel Fenix](https://github.com/awandahl/cqww160/blob/main/QTC-2020-03.pdf) av Björn SM7IUN    
 QTC 4/2020, s. 10: [DXLog.net – Del 2. Programmet](https://github.com/awandahl/cqww160/blob/main/QTC-2020-04.pdf) av Björn SM7IUN    

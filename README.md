@@ -12,7 +12,9 @@ Lite smått och gott inför CQWW160 2022
 
 ## Inband    
 
-[QTC 2/2020: Inband-switch för contest ](https://github.com/awandahl/cqww160/blob/main/QTC-2020-02.pdf) Björn SM7IUN    
+QTC 2/2020 s.10: [Inband-switch för contest ](https://github.com/awandahl/cqww160/blob/main/QTC-2020-02.pdf) Björn SM7IUN    
 
 ## DXlog    
 
+QTC 2/2020 s.10: [Inband-switch för contest ](https://github.com/awandahl/cqww160/blob/main/QTC-2020-02.pdf) Björn SM7IUN    
+QTC 2/2020 s.10: [Inband-switch för contest ](https://github.com/awandahl/cqww160/blob/main/QTC-2020-02.pdf) Björn SM7IUN    

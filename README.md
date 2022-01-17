@@ -35,8 +35,8 @@ Rättelse till ovan: [QTC 3/2020, s. 9](https://github.com/awandahl/cqww160/blob
 
 DXLog.net [documentation](http://dxlog.net/docs/index.php/Main_Page)    
 Från ovan: [Keyboard and text functions](http://dxlog.net/docs/index.php/Keyboard_and_text_functions)     
-Att sända med Enter: [ESM](http://dxlog.net/docs/index.php/Getting_started#ESM)
-Bra knappar att kunna: [Tips and Tricks](http://dxlog.net/docs/index.php/Getting_started#Tips_and_tricks)
+Att sända med Enter: [ESM](http://dxlog.net/docs/index.php/Getting_started#ESM)    
+Bra knappar att kunna: [Tips and Tricks](http://dxlog.net/docs/index.php/Getting_started#Tips_and_tricks)     
 QTC 3/2020, s. 28: [DXLog.net – Del 1. Fågel Fenix](https://github.com/awandahl/cqww160/blob/main/QTC-2020-03.pdf) av Björn SM7IUN    
 QTC 4/2020, s. 10: [DXLog.net – Del 2. Programmet](https://github.com/awandahl/cqww160/blob/main/QTC-2020-04.pdf) av Björn SM7IUN    
 

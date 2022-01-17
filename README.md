@@ -1,6 +1,6 @@
-# cqww160
+# CQWW 160 SD7DX
 
-Lite smått och gott inför CQWW160 2022
+Lite smått och gott inför CQWW 160 2022...
 
 
 ## K3     

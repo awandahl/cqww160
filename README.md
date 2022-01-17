@@ -13,7 +13,7 @@ Länkar öppnas förslagvis med HÖGERKLICK och i ny flik/fönster. Pdf:er öppn
 ## Inband    
 
 QTC 2/2020, s. 10: [Inband-switch för contest](https://github.com/awandahl/cqww160/blob/main/QTC-2020-02.pdf) av Björn SM7IUN   
-[Rättelse QTC 3/2020, s. 9](https://github.com/awandahl/cqww160/blob/main/QTC-2020-03.pdf)    
+Rättelse till ovan: [QTC 3/2020, s. 9](https://github.com/awandahl/cqww160/blob/main/QTC-2020-03.pdf)    
 
 ## DXLog.net    
 

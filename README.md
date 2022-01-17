@@ -5,6 +5,8 @@ Länkar öppnas förslagvis med HÖGERKLICK och i ny flik/fönster. Pdf:er kan i
 
 
 ## K3     
+![image](https://user-images.githubusercontent.com/62021989/149803366-e1666e85-5684-4704-91e6-b6e9803bc109.png)
+
 
 [Elecraft K3 Quick-Start Guide](https://github.com/awandahl/cqww160/blob/main/K3%20quick%20start8.pdf) (i allt väsentligt samma som i manualen nedan s. 4)    
 [K3S Owner's Manual](https://github.com/awandahl/cqww160/blob/main/K3S%20Owner's%20man%20A1.pdf) (front panel s. 10, basic operation s. 23)    

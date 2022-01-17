@@ -6,7 +6,7 @@ Lite smått och gott inför CQWW 160 2022...
 ## K3     
 
 [Elecraft K3 Quick-Start Guide](https://github.com/awandahl/cqww160/blob/main/K3%20quick%20start8.pdf) (i allt väsentligt samma som i manualen nedan s.4)    
-[K3S Owner's Manual](https://github.com/awandahl/cqww160/blob/main/K3S%20Owner's%20man%20A1.pdf) (front panel s.10)    
+[K3S Owner's Manual](https://github.com/awandahl/cqww160/blob/main/K3S%20Owner's%20man%20A1.pdf) (front panel s.10, basic operation s.23)    
 [P3 Panadapter Manual](https://github.com/awandahl/cqww160/blob/main/E740152%20P3%20Owner's%20man%20Rev%20H1.pdf) (front panel s.13)    
 
 ## Inband    

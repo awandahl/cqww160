@@ -4,6 +4,7 @@ Lite smått och gott inför CQWW 160 2022...
 Länkar öppnas förslagvis med HÖGERKLICK och i ny flik/fönster. Pdf:er kan i princip öppnas och läsas i själva github-fönstret, men kan vara tungladdade och ibland spricka. Då kan man försöka igen eller klicka på Download-knappen och öppna i valfri pdf-läsare istället.     
 
 ## RX-antenner
+![image](https://user-images.githubusercontent.com/62021989/149805823-d6e08a2d-e129-4d5c-89ee-466ad5f3c187.png)
 
 Bäver 305 grader USA    
 Bäver 80 grader VK    

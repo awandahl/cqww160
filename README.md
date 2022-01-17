@@ -1,7 +1,7 @@
 # CQWW 160 SC7DX
 
 Lite smått och gott inför CQWW 160 2022...    
-Länkar öppnas förlsagvis med HÖGERKLICK och i ny flik/fönster. Pdf:er öppnas i princip i själva fönstret, men kan vara tungladdade och spricka. Då kan man klicka på Download-knappen istället.     
+Länkar öppnas förlsagvis med HÖGERKLICK och i ny flik/fönster. Pdf:er öppnas i princip i själva fönstret, men kan vara tungladdade och spricka. Då kan man försöka igen eller klicka på Download-knappen och öppna i valfri pdf-läsare istället.     
 
 
 ## K3     

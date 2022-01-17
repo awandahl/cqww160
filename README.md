@@ -17,7 +17,9 @@ Länkar öppnas förslagvis med HÖGERKLICK och i ny flik/fönster. Pdf:er kan i
 QTC 2/2020, s. 10: [Inband-switch för contest](https://github.com/awandahl/cqww160/blob/main/QTC-2020-02.pdf) av Björn SM7IUN   
 Rättelse till ovan: [QTC 3/2020, s. 9](https://github.com/awandahl/cqww160/blob/main/QTC-2020-03.pdf)    
 
-## DXLog.net    
+## DXLog.net  
+![image](https://user-images.githubusercontent.com/62021989/149803673-8bbdc430-af90-40c5-999a-e4185cd5f708.png)
+
 
 DXLog.net [documentation](http://dxlog.net/docs/index.php/Main_Page)    
 Från ovan: [Keyboard and text functions](http://dxlog.net/docs/index.php/Keyboard_and_text_functions)     

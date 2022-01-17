@@ -1,6 +1,7 @@
 # CQWW 160 SC7DX
 
-Lite smått och gott inför CQWW 160 2022...
+Lite smått och gott inför CQWW 160 2022...    
+Länkar öppnas med HÖGERKLICK. Pdf:er öppnas i princip i själva fönstret, men kan vara tungladdade och spricka. Då kan man klicka på Download-knappen istället.     
 
 
 ## K3     

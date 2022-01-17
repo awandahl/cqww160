@@ -38,3 +38,7 @@ QTC 4/2020, s. 10: [DXLog.net – Del 2. Programmet](https://github.com/awandahl
 
 ## Brush up your CW
 
+[Morse Runner](http://www.dxatlas.com/morserunner/)    
+[RUFZ](https://www.rufzxp.net/)    
+[LCWO](https://lcwo.net/)    
+

@@ -3,6 +3,14 @@
 Lite smått och gott inför CQWW 160 2022...    
 Länkar öppnas förslagvis med HÖGERKLICK och i ny flik/fönster. Pdf:er kan i princip öppnas och läsas i själva github-fönstret, men kan vara tungladdade och ibland spricka. Då kan man försöka igen eller klicka på Download-knappen och öppna i valfri pdf-läsare istället.     
 
+## RX-antenner
+
+Bäver 305 grader USA    
+Bäver 80 grader VK    
+Bäver 40 grader JA    
+Magnetisk loop 300 meter från TX antenn läge väster – öster.    
+Magnetisk loop 100 meter från TX antenn läge norr – söder.    
+Bäver – kort cirka 90 meter i läge öster – väster.     
 
 ## K3     
 ![image](https://user-images.githubusercontent.com/62021989/149803366-e1666e85-5684-4704-91e6-b6e9803bc109.png)
@@ -27,3 +35,6 @@ DXLog.net [documentation](http://dxlog.net/docs/index.php/Main_Page)
 Från ovan: [Keyboard and text functions](http://dxlog.net/docs/index.php/Keyboard_and_text_functions)     
 QTC 3/2020, s. 28: [DXLog.net – Del 1. Fågel Fenix](https://github.com/awandahl/cqww160/blob/main/QTC-2020-03.pdf) av Björn SM7IUN    
 QTC 4/2020, s. 10: [DXLog.net – Del 2. Programmet](https://github.com/awandahl/cqww160/blob/main/QTC-2020-04.pdf) av Björn SM7IUN    
+
+## Brush up your CW
+
